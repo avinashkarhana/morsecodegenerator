@@ -14,7 +14,7 @@ But to run GUI you need CLI script in same directry as GUI.
 ScreenShots of Both inerfaces:
         
             1.CLI
-![calc_cli_screenshot](https:///github.com/avinashkarhana/morsecodegenerator/raw/master/morse_cli.png)
+![calc_cli_screenshot](https://github.com/avinashkarhana/morsecodegenerator/raw/master/morse_cli.png)
            
             2. GUI
-![calc_gui_screenshot](https:///github.com/avinashkarhana/morsecodegenerator/raw/master/morse_gui.png)
+![calc_gui_screenshot](https://github.com/avinashkarhana/morsecodegenerator/raw/master/morse_gui.png)
